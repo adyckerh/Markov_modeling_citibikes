@@ -11,3 +11,4 @@ venv/
   build/
   .ipynb_checkpoints/
   .DS_Store
+CSV Data/*.csv
