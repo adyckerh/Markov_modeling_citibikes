@@ -1,1 +1,3 @@
-# Markov_modeling_citibikes
+# Modeling Under Uncertainty Final Project
+
+Markov modeling of Citibike Demand
